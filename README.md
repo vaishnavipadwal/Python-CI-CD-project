@@ -76,4 +76,4 @@ This project demonstrates a simple 3-tier application setup that includes:
 
 ---
 
-- i will create project  with docker means Dockerzied setup in my next project (This will be my future work to improve environment consistency and deployment.)
+## I will create project  with docker means Dockerzied setup in my next project (This will be my future work to improve environment consistency and deployment.)
